@@ -1,4 +1,8 @@
-# Iso otsikko
+# Ohjelmistotekniikka, harjoitustyö
 
-jotain tekstiä ja **lihavoitua** ja *italoitua*
+## Tehtävät
+
+### Viikko 1
+[gitlog.txt](https://github.com/temejin/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/temejin/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
