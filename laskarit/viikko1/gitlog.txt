@@ -1,0 +1,95 @@
+commit 4e4a22eb4686f0ae5e71829582433f0909961407
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:23:08 2022 +0200
+
+    muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit ced4046eaa22cade6789ff0c1192ec85633723b7
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:21:17 2022 +0200
+
+    lisättiin tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8a48ed5df387fc75f23c53a9f6c3807b82e975e7
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:18:22 2022 +0200
+
+    muutoksia
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit f8032abdc911a648d26a2cb758778806904c9403
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:16:51 2022 +0200
+
+    uudelleennimettiin tiedosto
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c5e0ddda5cdbcefaedfa3b78a1319e79cd3e4afc
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:16:21 2022 +0200
+
+    poistettiin toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 974cb37a9ceed1f724873d1cdb94b320a5c54e79
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:15:27 2022 +0200
+
+    lisättiin sälää
+
+ "stuff/s\303\244l\303\244.txt" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ee46330df03546364414c7e6af8c0256a063add8
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:14:57 2022 +0200
+
+    muutos
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 74a91040169a71c067c9c845f5e550d7a8d63540
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:13:48 2022 +0200
+
+    kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5dba503a3691fe918f7e00f412fa144846aac10d
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:12:44 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit d8949027dac00f6bf870a9ee5e88d5aee5bb4794
+Author: temejin <93370315+temejin@users.noreply.github.com>
+Date:   Wed Mar 16 09:11:46 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
