@@ -10,3 +10,8 @@
 **jotain** *muutosta*
 ~~kokeillaanpa tällaista~~
 
+### Viikko 2
+
+[vaatimusmaarittely.md](https://github.com/temejin/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+[tuntikirjanpito.md](https://github.com/temejin/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
