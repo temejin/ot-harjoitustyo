@@ -10,8 +10,8 @@ classDiagram
 	Sattuma ja yhteismaa <|-- Ruutu
 	Asemat ja laitokset <|-- Ruutu
 	Normaalit kadut <|-- Ruutu
-	Monopoli |> Vankila
-	Monopoli |> Aloitusruutu
+	Monopoli ..|> Vankila
+	Monopoli ..|> Aloitusruutu
 	Monopoli "1" --> Kortti
 	class Monopoli{
 	
@@ -33,17 +33,17 @@ classDiagram
 	class Pelinappula{
 	
 }
-	class Aloitusruutu {
-
+	class Aloitusruutu{
+	
 }
 	class Vankila{
-
+	
 }
 	class SattumaJaYhteismaa{
 		nostaKortti()
 }
 	class AsematJaLaitokset{
-
+	
 }
 	class NormaalitKadut{
 		nimi
