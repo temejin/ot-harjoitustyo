@@ -1,4 +1,4 @@
-# Ohjelmistotekniikka, harjoitystyö
+# Ohjelmistotekniikka, harjoitustyö
 
 **harjoitustyön** *aihe* päivittyy myöhemmin.
 
